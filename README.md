@@ -60,6 +60,16 @@ The project allowed me to develop practical experience in:
 - Study-planning algorithms
 - Data-driven recommendations
 - Software testing and iterative improvement
+## 📱 Application Screenshots
+
+### Study Dashboard
+<img src="./Screenshot_٢٠٢٦-٠٩-١٤-٠١-٠٢-٥٨-٣٨٧_com.studypilot.ai.jpg" width="300">
+
+### Smart Priority Engine
+<img src="./Screenshot_٢٠٢٦-٠٩-١٤-٠١-٠٣-١٤-٠٩٤_com.studypilot.ai.jpg" width="300">
+
+### AI Study Assistant
+<img src="./Screenshot_٢٠٢٦-٠٩-١٤-٠١-٠٣-١٨-٣٢٢_com.studypilot.ai.jpg" width="300">
 
 ## 🚀 Future Development
 
