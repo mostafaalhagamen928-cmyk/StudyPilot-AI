@@ -1,5 +1,40 @@
 # StudyPilot AI
+## 🏆 Vanguard Open 2026 — Human-First Edition
 
+**StudyPilot AI V7** is a substantially developed version of my earlier StudyPilot project, created specifically for **The Vanguard Open 2026**.
+
+The central addition is the **Human Judgment Boundary** — a human-first AI safety layer that defines what educational decisions AI may assist with and what decisions must remain human.
+
+### 🛡️ Human Judgment Boundary
+
+StudyPilot AI may:
+
+- Prioritize subjects and study tasks
+- Recommend how to distribute study time
+- Analyze current progress and revision needs
+- Suggest flexible study actions
+
+But it refuses to:
+
+- Judge a student's intelligence or personal worth
+- Label a student as “weak,” “incapable,” or “a failure”
+- Predict a student's future potential as a final judgment
+- Make high-impact educational decisions that should remain with the student or teacher
+
+Instead of making permanent judgments, the system returns changeable, evidence-based study data and makes clear that its output is a recommendation — not a judgment of human ability.
+
+### 🔬 Demonstration
+
+The screenshot below shows the Human Judgment Boundary responding to a protected question:
+
+![Human Judgment Boundary Demo](vanguard-human-judgment-demo.jpg)
+
+### 📦 Vanguard V7 Files
+
+- [Download StudyPilot AI V7 — Human-First APK](./StudyPilotAI_v7_Vanguard_HumanFirst.apk)
+- [Download StudyPilot AI V7 Web Source](./StudyPilotAI_v7_Vanguard_WebSource.zip)
+
+> **Project history:** StudyPilot AI existed before The Vanguard Open. For the 2026 competition, I substantially developed the project by creating the Human Judgment Boundary, redesigning the assistant around human-first AI principles, and implementing a working demonstration of protected educational decisions.
 **AI-Powered Adaptive Study Planning & Learning Assistant**
 
 StudyPilot AI is an independently developed educational application designed to help students organize their studies, identify academic priorities, and receive personalized study recommendations.
